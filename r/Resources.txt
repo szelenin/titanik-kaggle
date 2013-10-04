@@ -1,0 +1,9 @@
+Defining family structure
+Description: https://www.kaggle.com/c/titanic-gettingStarted/prospector#208
+Code: https://github.com/matthagy/titanic-families
+
+Correlogram: https://www.kaggle.com/c/titanic-gettingStarted/prospector#489
+Traveling alone or with family: https://www.kaggle.com/c/titanic-gettingStarted/prospector#175, visu2.r
+
+IPython Notebook tutorial. 
+https://www.kaggle.com/c/titanic-gettingStarted/forums/t/5105/ipython-notebook-tutorial-for-titanic-machine-learning-from-disaster
