@@ -14,6 +14,7 @@ from sklearn import datasets, svm
 import sys
 from Visualise import Graphs
 
+# github.com/agconti/AGC_KaggleAux
 sys.path.append('D:/workspace/projects/AGC_KaggleAux')
 import kaggleaux as ka
 
